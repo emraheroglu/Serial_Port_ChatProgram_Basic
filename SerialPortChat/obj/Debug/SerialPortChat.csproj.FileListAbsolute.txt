@@ -1,0 +1,10 @@
+C:\Users\emrhe\source\repos\SerialPortChat\SerialPortChat\bin\Debug\SerialPortChat.exe.config
+C:\Users\emrhe\source\repos\SerialPortChat\SerialPortChat\bin\Debug\SerialPortChat.exe
+C:\Users\emrhe\source\repos\SerialPortChat\SerialPortChat\bin\Debug\SerialPortChat.pdb
+C:\Users\emrhe\source\repos\SerialPortChat\SerialPortChat\obj\Debug\SerialPortChat.csprojAssemblyReference.cache
+C:\Users\emrhe\source\repos\SerialPortChat\SerialPortChat\obj\Debug\SerialPortChat.Form1.resources
+C:\Users\emrhe\source\repos\SerialPortChat\SerialPortChat\obj\Debug\SerialPortChat.Properties.Resources.resources
+C:\Users\emrhe\source\repos\SerialPortChat\SerialPortChat\obj\Debug\SerialPortChat.csproj.GenerateResource.cache
+C:\Users\emrhe\source\repos\SerialPortChat\SerialPortChat\obj\Debug\SerialPortChat.csproj.CoreCompileInputs.cache
+C:\Users\emrhe\source\repos\SerialPortChat\SerialPortChat\obj\Debug\SerialPortChat.exe
+C:\Users\emrhe\source\repos\SerialPortChat\SerialPortChat\obj\Debug\SerialPortChat.pdb
